@@ -1,4 +1,4 @@
-Pyodbc-CLI
+pyodbc-cli
 ==========
 
 Very simple ODBC client shell. 
