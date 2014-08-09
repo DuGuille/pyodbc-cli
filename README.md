@@ -29,3 +29,4 @@ Main motivation to do this tiny odbc client is that unixodbc's isql sucks. It co
 ```
 cat script.sql | python cli.py "DSN=database; user=admin; password=12345"
 ```
+This project is a toy compared to odbcshell: https://github.com/bindle/odbcshell
